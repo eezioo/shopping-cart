@@ -1,0 +1,10 @@
+.thumbnail img{
+    max-height: 120px;
+}
+.thumbnail .description{
+    color: rgba(39,30,36,0.41);
+}
+.thumbnail .price{
+    font-weight: bold;
+    font-size: 16px;
+}
